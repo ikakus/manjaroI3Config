@@ -1,0 +1,62 @@
+{
+   "checksum": "d0a47f8b8365c094bdfb21b7aca68220",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13247694516069248",
+               "guid": "7e871cb8-2034-4bd6-ae71-7be948586c37",
+               "id": "6",
+               "name": "Welcome to Brave",
+               "type": "url",
+               "url": "chrome://welcome/"
+            }, {
+               "date_added": "13247694516069436",
+               "guid": "2bc7a04a-824e-46c7-916d-c7da824f1545",
+               "id": "7",
+               "name": "Linux console/Keyboard configuration - ArchWiki",
+               "type": "url",
+               "url": "https://wiki.archlinux.org/index.php/Linux_console/Keyboard_configuration"
+            }, {
+               "date_added": "13247694516069564",
+               "guid": "2e1d280d-8052-41b3-98b2-0d405eb48427",
+               "id": "8",
+               "name": "New Tab",
+               "type": "url",
+               "url": "chrome://newtab/"
+            } ],
+            "date_added": "13247694516068457",
+            "date_modified": "13247694516069564",
+            "guid": "6f94f4c9-7c9d-4f43-b70f-92b3c74df024",
+            "id": "5",
+            "name": "New folder",
+            "type": "folder"
+         } ],
+         "date_added": "13247694428660047",
+         "date_modified": "13247694516069687",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13247694428660049",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13247694428660051",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
